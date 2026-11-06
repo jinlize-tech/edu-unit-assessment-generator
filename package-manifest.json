@@ -1,0 +1,18 @@
+{
+  "product_id": "JLZ-EDU-SK-029",
+  "repository_name": "edu-unit-assessment-generator",
+  "product_type": "Skill",
+  "version": "1.0.0",
+  "package_path": "dist/edu-unit-assessment-generator-v1.0.0.zip",
+  "sha256": "EE441CA58F2E417F801C6AD2D4491394526BC4E1A2570FE2DAF970B3ADD6EF5E",
+  "bytes": 4848,
+  "entries": [
+    "edu-unit-assessment-generator/SKILL.md",
+    "edu-unit-assessment-generator/references/DOMAIN_GUIDE.md",
+    "edu-unit-assessment-generator/references/EXAMPLES.md",
+    "edu-unit-assessment-generator/templates/OUTPUT_TEMPLATE.md"
+  ],
+  "built_at": "2026-11-06T22:14:38.1610955+08:00",
+  "status": "PACKAGE_READY",
+  "workbuddy_validation": "NOT_VERIFIED"
+}

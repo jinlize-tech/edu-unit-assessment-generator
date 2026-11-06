@@ -1,0 +1,24 @@
+{
+  "number": 35,
+  "product_id": "JLZ-EDU-SK-029",
+  "chinese_name": "单元测评设计",
+  "english_name": "Unit Assessment Generator",
+  "repository_name": "edu-unit-assessment-generator",
+  "product_type": "Skill",
+  "category": "03 教学教研中心",
+  "version": "1.0.0",
+  "status": "PACKAGE_READY",
+  "workbuddy_validation": "NOT_VERIFIED",
+  "license": "Apache-2.0",
+  "baseline_tag": "education-product-baseline-v1.0.0",
+  "package_path": "dist/edu-unit-assessment-generator-v1.0.0.zip",
+  "calculator": false,
+  "core_input": "单元目标、知识点、课时数、题型比例、难度和评价标准",
+  "main_output": "测评蓝图、试题结构、评分标准、能力覆盖表和复核清单",
+  "package_entries": [
+    "edu-unit-assessment-generator/SKILL.md",
+    "edu-unit-assessment-generator/references/DOMAIN_GUIDE.md",
+    "edu-unit-assessment-generator/references/EXAMPLES.md",
+    "edu-unit-assessment-generator/templates/OUTPUT_TEMPLATE.md"
+  ]
+}
