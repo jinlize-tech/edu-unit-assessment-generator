@@ -1,0 +1,11 @@
+{
+  "scenario_name": "incomplete",
+  "business_context": "用户在单元测评设计任务开始阶段只提供了少量资料。",
+  "inputs": {
+    "单元目标": "标准合成场景｜提升执行质量、缩短处理周期并降低返工（合成业务目标）",
+    "知识点": "标准合成场景｜单元测评设计的知识点：已按合成业务口径准备"
+  },
+  "data_status": "confirmed",
+  "conflicts": [],
+  "contains_sensitive_data": false
+}
